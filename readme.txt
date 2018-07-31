@@ -1,4 +1,5 @@
 hello git 
 hello python
 hello linux
-hello future hacker
+hello future hecker
+put your master
